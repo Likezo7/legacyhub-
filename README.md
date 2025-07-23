@@ -32,8 +32,3 @@ project-root/ ├── css/ │   └── styles.css ├── js/ │   └�
 - **EmailJS:** For handling booking form emails.
 - **FormSubmit.co:** For simple, backend-free form submissions.
 - **Netlify:** For seamless deployment.
-
----
-
-Feel free to customize this readme as your project evolv
-es!
